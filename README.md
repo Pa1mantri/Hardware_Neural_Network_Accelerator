@@ -1,4 +1,5 @@
-## Building a 3-layer NN accelerator using custom activation logic, weight storage, and configurable datapaths. Support runtime model swapping via UART.
+  ## Building a Hardware neural network accelerator using custom activation logic, weight storage, and configurable datapaths.
+
 
 **Data Flow chart of the design**
 
