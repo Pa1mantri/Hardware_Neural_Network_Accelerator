@@ -1,0 +1,1 @@
+Building a 3-layer NN accelerator using custom activation logic, weight storage, and configurable datapaths. Support runtime model swapping via UART as part of hackathon conducted by NIT Jamshedpur and VLSI For ALL.
